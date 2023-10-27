@@ -1,0 +1,64 @@
+body {
+    background-image: url('banner-home-rastreamento-online.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #a30000;
+    padding: 10px 0;
+}
+
+.header img {
+    width: 350px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #333;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.tagline {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.benefits {
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.cta-button {
+    display: block;
+    width: 200px;
+    margin: 30px auto;
+    padding: 15px 0;
+    background-color: #4CAF50;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 25px;
+    font-size: 18px;
+}
+
+.footer {
+    margin-top: 50px;
+    font-size: 14px;
+}
